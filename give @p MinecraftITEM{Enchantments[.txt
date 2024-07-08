@@ -1,0 +1,2 @@
+/give @p Minecraft:<ITEM>{Enchantments:[{id:<ENCHANTMENT>,lvl:255}]} - replace item with armor, or whatever item you want to be enchanted, replace enchantment with whatever enchantment you want to use. I just put this because i didn't think you could figure it out without my help
+/give @p Minecraft:spawn_egg 1 0 {display: {LocName:"Piglear Bomb"},HideFlags:1,ench: [ {id:62,lvl:1}],EntityTag: {id:"minecraft:creeper",Glowing:1b,CustomName:"Nuke",CustomNameVisible:1b,powered:1b,ExplosionRadius:99b,Fuse:400,ignited:1b}}
